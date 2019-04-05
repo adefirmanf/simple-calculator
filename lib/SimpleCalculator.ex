@@ -10,7 +10,7 @@ defmodule SimpleCalculator do
 
       iex> SimpleCalculator.sum(1,2)
       3
-
+  "" AUSKUAKSUK
   """
   def sum(a,b), do: a+b
   def min(a,b), do: a-b
