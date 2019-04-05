@@ -11,7 +11,7 @@ defmodule SimpleCalculator.MixProject do
     ]
   end
 
-  # Run "mix help compile.app" to learn about applications.
+  # Run "mix help compile.app" to learn about appliacations.
   def application do
     [
       extra_applications: [:logger]
